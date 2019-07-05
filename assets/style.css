@@ -40,7 +40,7 @@ nav{
 	width:100%;
 	position: fixed !important;	
 }
-.navbar-item > h4{
+.navbar-brand{
 	display: none;
 }
 .navbar-menu,.navbar-start{
